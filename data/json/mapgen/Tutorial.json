@@ -10,22 +10,22 @@
                 "fill_ter": "t_grass",
                 "rows":[
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx------------------------------------
-x6.....x.....................................................x-
-x...@..x                                                      |                                    -
-x......x         +                                                    |                                    -
-xxxx+xxx                                                    | OUTDOORS, sparesely forested       -
-x@tributes|              LOBBY                                 + Surrounded with metal bars.        -
-x         +                                                    |                                    -
-x_+______6|                                                    |                                    -
-xtips     +                                                    | ~~~~~~                             -
-x________6|                                                    | ~~~~~~                             -
-xeaster   |____+______________+____________________+__________6| ~~~~~~                             -
-xegg      |{           |Books & Skills  |Construction          | ~~~~~~                             -
-x         |items       |  {{{{{{{{{{{   |                      | ~~~~~~                             -
-x         |&           +                |                      | ~~~~~~                             -
-x         |inventory   |  {{{{{{{{{{{   |                      | ~~~~~~                             -
-x________6|____+______6|                |                      |                                    -
-x         |            |_______+_______6|                      +                                    -
+x6....x.....................................................x-
+x..@..x                                                      |                                    -
+x.....x         +                                                    |                                    -
+xxxx+xx                                                    | OUTDOORS, sparesely forested       -
+x.....+              LOBBY                                 + Surrounded with metal bars.        -
+x....6x                                                    |                                    -
+xx+xxxx                                                    |                                    -
+x.....+                                                    | ~~~~~~                             -
+x....6x                                                    | ~~~~~~                             -
+xxxxxxxxxx  |____+______________+____________________+__________6| ~~~~~~                             -
+x........x|{           |Books & Skills  |Construction          | ~~~~~~                             -
+x........x         |items       |  {{{{{{{{{{{   |                      | ~~~~~~                             -
+x........x|&           +                |                      | ~~~~~~                             -
+x........x|inventory   |  {{{{{{{{{{{   |                      | ~~~~~~                             -
+x.......6x|____+______6|                |                      |                                    -
+xxxxxxxxxx            |_______+_______6|                      +                                    -
 xweaponry |clothing,   |Crafting        |                      |                                    -
 xand      |armor,      |&               |                      |  foraging bushes                   -
 xexplosive|and         |Tools           |                      |                                    -
@@ -37,11 +37,11 @@ xfiring   |Agony & you |                |                      |                
 x range   |            | Happy Drugs    |                      +                                    -
 x         |            |                |                      |                                    -
 x         |            |Staying Healthy |                      6                                    -
-|D   D   D|"Medical    +_______________6|6                     | ^                                  -
-|         |treatment"  |                                       |^                                   -
-|         |            | Vehicle construction/Cart             | ^                                  -
-|    >    +            |                                       6                                    -
-|________6|___________6|_______________________________________|||||||||||||||||++|||||||||||||||||||
+xD   D   D|"Medical    +_______________6|6                     | ^                                  -
+x         |treatment"  |                                       |^                                   -
+x         |            | Vehicle construction/Cart             | ^                                  -
+x    >    +            |                                       6                                    -
+x________6|___________6|_______________________________________|||||||||||||||||++|||||||||||||||||||
 
 
 Character spawns with all skills at 1 with 12 int, quick, some bubblewrap, and a pair of jeans. Default rest, and no other items. 
